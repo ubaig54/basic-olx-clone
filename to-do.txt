@@ -1,0 +1,31 @@
+*sign in hone k baad username header m show ho
+
+*main-logo zara high pixels ka lga lo
+
+*recent product pehle ana chahye
+
+*ad add krne k baad popup hide krna hai
+
+*image add krni hai
+
+multiple images upload krni hai ya nahi?
+
+*ad-thumbnail se desc hata k location add krni hai ya desc ko limited keywords tk rakhna hai
+
+add to fav add krna hai ya nahi? point #8 mein exact krna kia hai?
+
+*location to shayad remove hi krdo ya dekh lo.
+
+ad ko delete bhi to kr saken
+
+*ad open kr k shayad alag se ek page banana parega
+
+line #318 pe keyup kyun lga hua hai?
+
+*form validation for all forms
+
+*sign in btn pe hover problem kr rha hai
+
+my ads & favorite filteration
+
+ad details separate page pe render krwani hain

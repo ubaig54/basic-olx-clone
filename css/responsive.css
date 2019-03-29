@@ -1,0 +1,72 @@
+@media (max-width: 900px){
+    header .top .left {
+        width: auto;
+    }
+    .location{
+        display: none;
+    }
+    /* #signinBtn{
+         display: none;
+    } */
+    header .top .right{
+        position: fixed;
+        bottom: 20px;
+        width: 89%;
+    }
+    .signinBtnDiv .dropdown{
+        position: fixed;
+        top: 77px;
+        right: 38px;
+        background: #fff;
+    }
+    .signinBtnDiv #signinBtn {
+        padding: 5px !important;
+        margin: 0 !important;
+    }
+    .sellBtnDiv{
+        width: 100%;
+        float: none;
+        display: flex;
+    }
+    #sellBtn{
+        margin: auto;
+    }
+    #signinPopupContainer, #signupPopupContainer, #categoryPopupContainer, #sellPopupContainer{
+        margin: 200px auto;
+    }
+    #signinPopup, #signupPopup, #categoryPopup, #sellPopup{
+        overflow-x: hidden;
+    }
+    .oneThird, .oneFourth, .oneFifth{
+        width: 100%;
+        float: none;
+    }
+    .popularCategories .oneThird{
+        border-right: solid 1px #ccc;
+    }
+    footer .bottom .left, footer .bottom .right {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    footer .bottom .right{
+        border-top: solid 1px #ccc;
+        margin: 10px 0;
+        padding: 10px 0;
+    }
+
+
+    /* ad.html */
+    #adDetailsPopup .left{
+        width: 100%;
+        float: none;
+    }
+    #adDetailsPopup .right{
+        width: 100%;
+        float: none;
+    }
+    #adDetailsPopupContainer .left #showAdImage img {
+        width: 100%;
+        height: auto;
+    }
+}
