@@ -1,14 +1,3 @@
-// Initialize Firebase
-var config = {
-    apiKey: "AIzaSyBOKIRYG7E2_C8ZdHcPIVu9kQrSWcHXv0s",
-    authDomain: "olx-app-d4585.firebaseapp.com",
-    databaseURL: "https://olx-app-d4585.firebaseio.com",
-    projectId: "olx-app-d4585",
-    storageBucket: "olx-app-d4585.appspot.com",
-    messagingSenderId: "648331854551"
-};
-firebase.initializeApp(config);
-
 var currentUserName;
 var currentUserUid;
 
